@@ -3,8 +3,6 @@
 ![alt text](/images/Jobs_%20Dashboard_1.png
 ) 
 
-[View interactive dashboard here on the Power BI Service](https://app.powerbi.com/links/0p1zeSn2T1?ctid=28367600-f4b9-456b-9969-d665d0e5f1aa&pbi_source=linkShare)
-
 ## Introduction
 
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered an hard to grasp. Using a *real-world data set of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation. 
